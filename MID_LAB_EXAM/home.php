@@ -6,10 +6,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Admin Page</title>
+	<title>Admin</title>
 </head>
 <body>
-	<h1>Welcome to Bob!</h1>
+	<h1>Welcome</h1>
 	<table style="width:100%">
 	<a href="profile.html">Profile </a> | 
 	<a href="changepass.html">Change Password </a> |
